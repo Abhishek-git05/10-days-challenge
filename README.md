@@ -1,2 +1,3 @@
 # 10-days-challenge
-10 days Website making challenge
+I'll be making 10 websites with different themes, it's a fun project work to upgrade my current skills.
+
